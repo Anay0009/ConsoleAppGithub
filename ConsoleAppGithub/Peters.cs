@@ -10,11 +10,11 @@ namespace ConsoleAppGithub
     {
         public void print()
         {
-            Console.WriteLine("Peters");
+            Console.WriteLine("Hello everybody");
         }
         public void print2()
         {
-            Console.WriteLine("Peters");
+            Console.WriteLine("This a Git, Repository");
         }
     }
 }
