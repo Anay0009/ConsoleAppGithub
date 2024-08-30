@@ -8,5 +8,9 @@ namespace ConsoleAppGithub
 {
     internal class Peters
     {
+        public void print()
+        {
+            Console.WriteLine("Peters");
+        }
     }
 }
