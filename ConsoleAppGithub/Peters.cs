@@ -14,7 +14,7 @@ namespace ConsoleAppGithub
         }
         public void print2()
         {
-            Console.WriteLine("This a Git, Repository");
+            Console.WriteLine("This a Git Repository");
         }
     }
 }
